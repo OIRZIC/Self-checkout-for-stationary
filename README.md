@@ -1,3 +1,1 @@
-Đồ án xây dựng hệ thống thanh toán tự động cho cửa hàng văn phòng phẩm dựa trên học sâu. Hệ thống sử dụng YOLO để nhận diện sản phẩm và ByteTrack để theo dõi, đếm số lượng trong thời gian thực. Dữ liệu huấn luyện được thu thập từ góc nhìn trên cao, gán nhãn thủ công và tiền xử lý để đảm bảo chất lượng. Thông tin sản phẩm và giá cả được quản lý bằng SQLite, giúp tính toán hóa đơn tự động và hiển thị chi tiết cho người dùng.
-
-Hệ thống đạt độ chính xác cao trong nhận diện và theo dõi, hỗ trợ tối ưu hóa quy trình thanh toán tại cửa hàng, đồng thời là minh chứng ứng dụng của AI, học sâu và tự động hóa trong nhận diện đối tượng thực tế.
+**Đồ án xây dựng hệ thống thanh toán tự động cho cửa hàng văn phòng phẩm**
